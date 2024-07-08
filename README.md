@@ -8,11 +8,12 @@ Projeto Intregador implementado na disciplina do curso Técnico em Desenvolvimen
 Tabela de conteúdo
 ------------------------
 
-*[Sobre](#sobre)
-*[Pré-requisitos](#pré-requisitos)
-    *[Compilando a aplicação](#compilando-a-aplicação)
-    *[Executando a aplicação](#executando-a-aplicação)
-*[Tecnologias utilizadas](#tecnologia-utilizadas)
+*[Sobre](#sobre)<br>
+*[Pré-requisitos](#pré-requisitos)<br>
+    *[Compilando a aplicação](#compilando-a-aplicação)<br>
+    *[Executando a aplicação](#executando-a-aplicação)<br>
+*[Tecnologias utilizadas](#tecnologia-utilizadas)<br>
+*[Autor](#autor)
 
 Pré-requisitos
 ========================
@@ -31,3 +32,12 @@ $ java Programa.java
 
 Tecnologias utilizadas
 ========================
+As seguintes tecnologias foram utilizadas na construção do projeto
+[Java]
+[Javascript]
+[Mysql]
+
+Autor
+========================
+Projeto feito por Josue Gomes Lima.<br>
+[![Linkedin Badge](https://www.linkedin.com/feed/?nis=true&lipi=urn%3Ali%3Apage%3Ad_flagship3_profile_view_base%3BLtD8Y6hJQ5OOZoMbv0QtHw%3D%3D)](https://www.linkedin.com/in/josue-gomes-lima-6965882ba/)
