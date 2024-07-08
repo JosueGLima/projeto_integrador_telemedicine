@@ -24,6 +24,7 @@ Compilando a aplicação
 $ javac Programa.java
 ```
 Executando a aplicação
+------------------------
 ```bash
 $ java Programa.java
 ```
