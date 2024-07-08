@@ -20,6 +20,6 @@ Compilando a aplicação
 ------------------------
 ```bash
 $ javac Programa.java
-
+```
 Tecnologias utilizadas
 ========================
